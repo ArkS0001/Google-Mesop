@@ -1,3 +1,6 @@
 # Google-Mesop
 https://github.com/google/mesop
-Streamlit Alternative
+
+Exploring Mesop: A Comprehensive Python Web Framework Beyond Streamlit for AI and ML Applications
+
+
